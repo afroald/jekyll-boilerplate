@@ -1,0 +1,15 @@
+# Site settings
+title: Your awesome title
+email: your-email@domain.com
+description: ""
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude: [Gemfile, Gemfile.lock]
+
+# Assets
+assets:
+  # baseurl:
