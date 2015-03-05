@@ -1,18 +1,7 @@
 # Site settings
-title: Your awesome title
 baseurl: ""
 url: "http://yourdomain.com"
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-exclude: [Gemfile, Gemfile.lock]
 
 # Assets
 assets:
     baseurl:
-    sources:
-        - _assets/fonts
-        - _assets/images
-        - _assets/javascripts
-        - _assets/stylesheets
