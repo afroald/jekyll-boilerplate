@@ -4,4 +4,7 @@ url: "http://yourdomain.com"
 
 # Assets
 assets:
+    debug: false
     baseurl:
+    js_compressor: uglifier
+    css_compressor: sass
